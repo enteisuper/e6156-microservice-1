@@ -35,22 +35,22 @@ and execution window and browser side-by-side.
 
 Make a copy of the project and create a project in GitHub. Show the project.
 
-| <img src="./github.jpg"> |
-|:------------------------:|
-|  __Project on GitHub__   | 
+| <img src="./screenshot3.png"> |
+|:-----------------------------:|
+|     __Project on GitHub__     | 
 
 
 ## Deploy and Test Project on AWS
 
 Show the information about your VM through the console.
 
-| <img src="./ec2-console.jpg"> |
+| <img src="./screenshot4.png"> |
 |:-----------------------------:|
 |        __AWS Console__        | 
 
 Show the application running in the EC2 terminal and browser.
 
-| <img src="./aws-running.jpg"> |
+| <img src="./screenshot5.png"> |
 |:-----------------------------:|
 |      __Service Running__      | 
 
